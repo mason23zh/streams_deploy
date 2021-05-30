@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "test1",
+      "description": "test1 stream ",
+      "id": 1
+    },
+    {
+      "title": "test2",
+      "description": "test2 stream",
+      "id": 2
+    },
+    {
+      "title": "user programmatci navigation",
+      "description": "programmatic navigation test change ",
+      "id": 4
+    },
+    {
+      "title": "user2",
+      "description": "usertest 2 after refactor change",
+      "id": 5
+    },
+    {
+      "title": "455",
+      "description": "1231323123",
+      "userId": "102778501417725349122",
+      "id": 7
+    }
+  ]
+}
